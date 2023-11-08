@@ -70,8 +70,6 @@ class Anonymous():
 
 [<img src="https://github.com/TeamRenierb/TeamRenierb/blob/master/resources/hr.gif"/>](https://github.com/TeamRenierb)
 
-<h1> <img src="https://raw.githubusercontent.com/TeamRenierb/TeamRenierb/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
-
 <div align="center">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=TeamRenierb&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Renierb's Github Stats">
@@ -88,6 +86,8 @@ class Anonymous():
 ![](https://komarev.com/ghpvc/?username=TeamRenierb&color=blueviolet&style=flat)
 
 </div>
+
+<h1> <img src="https://raw.githubusercontent.com/TeamRenierb/TeamRenierb/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
 
 [<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Spotify" width="75%" />](https://open.spotify.com/user/d28p2msbxwzil9byvx5sql00z)
 
