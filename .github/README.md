@@ -9,7 +9,7 @@ k[<img src="https://github.com/TeamRenierb/TeamRenierb/blob/master/resources/hr.
 [<img src="https://github.com/TeamRenierb/TeamRenierb/blob/master/resources/hr.gif"/>](https://github.com/TeamRenierb)
 
 <p align="center">
-<img src="https://te.legra.ph/file/9f9f9e906aa1dfdef2e29.jpg">
+<img src="https://telegra.ph/file/34d68ffbea4f4a964e1dc.jpg">
 </p>
 
 [<img src="https://raw.githubusercontent.com/TeamRenierb/TeamRenierb/master/resources/hr.gif"/>](https://github.com/TeamRenierb)
@@ -17,7 +17,7 @@ k[<img src="https://github.com/TeamRenierb/TeamRenierb/blob/master/resources/hr.
 <h1> <img src="https://te.legra.ph/file/21e7bb7f0b7b27333a806.jpg" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
 ```python3
-class Anonymous():
+class Renierb():
     def __init__(self):
         self.name = ['Renierb']
         self.country = ['India']
