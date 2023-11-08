@@ -1,4 +1,4 @@
-[<img src="https://github.com/TeamRenierb/TeamRenierb/blob/master/resources/hr.gif"/>](https://github.com/TeamRenierb)
+k[<img src="https://github.com/TeamRenierb/TeamRenierb/blob/master/resources/hr.gif"/>](https://github.com/TeamRenierb)
 
 <h1> <img src="https://te.legra.ph/file/8e43d1a66ca355ea0b7a5.jpg" height="90px" width="80px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs Rᴇɴɪᴇʀʙ </h1>
 <p align="center">
@@ -68,7 +68,7 @@ class Anonymous():
 
 [<img src="https://raw.githubusercontent.com/TeamRenierb/TeamRenierb/master/resources/telegram_icon.png" width="60px">](https://t.me/RenierbBoTz) [<img src="https://raw.githubusercontent.com/TeamRenierb/TeamRenierb/master/resources/github_icon.png" width="60px">](https://github.com/TeamRenierb) [<img src="https://github.com/TeamRenierb/TeamRenierb/blob/master/resources/insta_icon.png" width="60px">](https://instagram.com/renierbx2k13)
 
-[<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>](https://github.com/AnonymousX1025)
+[<img src="https://github.com/TeamRenierb/TeamRenierb/blob/master/resources/hr.gif"/>](https://github.com/TeamRenierb)
 
 <h1> <img src="https://raw.githubusercontent.com/TeamRenierb/TeamRenierb/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
 
